@@ -7,6 +7,13 @@
 [![Documentation](https://readthedocs.org/projects/snorkel/badge/)](http://snorkel.readthedocs.io/en/master/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+
+## Note
+This forked project extends snorkel to support analogy mining. To run the project, after `git clone`, please add the forked project into upstream by the following command.
+
+```
+git remote add upstream https://github.com/HazyResearch/snorkel.git
+```
 ## Acknowledgements
 <img src="figs/darpa.JPG" width="80" height="80" align="middle" /> <img src="figs/ONR.jpg" width="100" height="80" align="middle" /> <img src="figs/moore_logo.png" width="100" height="60" align="middle" /> <img src="figs/nih_logo.png" width="80" height="60" align="middle" /> <img src="figs/mobilize_logo.png" width="100" height="60" align="middle" />
 
